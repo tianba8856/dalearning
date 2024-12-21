@@ -1,6 +1,7 @@
 ---
 category: Python Basics
 share: "true"
+aliases: 
 ---
 
 Operators in Python are special symbols that perform specific operations on one, two or more operands (values) and produce a result. Operators can be classified into different categories such as arithmetic, comparison, logical, bitwise, assignment and identity operators, each with a specific purpose.
@@ -13,7 +14,7 @@ Operators in Python are special symbols that perform specific operations on one,
 - Membership operators
 - Identity operators
 
-### 3.1.1 Arithmetic Operators
+### Arithmetic Operators
 
 Arithmetic Operators are the basic mathematical operators in Python used to perform arithmetic operations such as addition, subtraction, multiplication, division, and others. These operators are represented by symbols such as `+, -,*, /, %, and **`. They are used to perform mathematical operations on numbers and produce a single output value. For example, addition (+) operator is used to add two values, subtraction (-) operator is used to subtract two values, and so on. With these operators, you can perform various mathematical calculations in Python, making it an ideal choice for numerical computing and data analysis. Additionally, Python provides support for complex numbers, which can be manipulated using arithmetic operators, making it a powerful tool for advanced mathematical and scientific calculations.
 
